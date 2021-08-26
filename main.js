@@ -46,3 +46,4 @@ client.on('message', (message) => {
 })
 
 client.login(process.env.BOT_TOKEN); // use env var bc bot token = sensitive (like lowan)
+
